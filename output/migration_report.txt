@@ -1,0 +1,8 @@
+REPORTE DE MIGRACION
+Fecha: 2026-01-22 16:54:09.627161
+
+Total: 1842
+V�lidos: 1838
+Inv�lidos: 4
+
+Transacciones desbalanceadas: 1

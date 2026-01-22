@@ -1,0 +1,45 @@
+# =========================
+# Credenciales y secretos
+# =========================
+*.key.json
+credentials.json
+.env
+.env.local
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# =========================
+# Airflow
+# =========================
+airflow/
+airflow.cfg
+airflow.db
+logs/
+*.log
+
+# =========================
+# Output generado
+# =========================
+output/*.txt
+!output/.gitkeep
+
+# =========================
+# IDEs y sistema
+# =========================
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
